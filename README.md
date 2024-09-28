@@ -15,3 +15,6 @@
 
 <h2>🚀 ¿Tienes lo necesario para lograr tu escape?</h2>
 <p>¡Pon a prueba tu ingenio y habilidades de exploración para salir de esta misteriosa isla! ¡Buena suerte, aventurero! 🍀</p>
+
+
+Este juego fue realizado por el Grupo 5
