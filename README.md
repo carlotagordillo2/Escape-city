@@ -1,3 +1,4 @@
+
 <h1>🌆 City Escape: ¡Encuentra el puerto y escapa de la isla! 🌊</h1>
 
 <p>¡Bienvenido a <strong>City Escape</strong>! En este emocionante juego de aventuras, te despiertas en una isla misteriosa, sin recordar cómo llegaste allí. Todo lo que ves a tu alrededor es un frondoso parque lleno de árboles y un parque infantil. No sabes mucho más... solo que tu única opción para escapar es llegar al puerto y tomar el ferry hacia la libertad.</p>
@@ -16,5 +17,8 @@
 <h2>🚀 ¿Tienes lo necesario para lograr tu escape?</h2>
 <p>¡Pon a prueba tu ingenio y habilidades de exploración para salir de esta misteriosa isla! ¡Buena suerte, aventurero! 🍀</p>
 
+<h2>🚀 ¿Qué hemos usado?</h2>
+  <li> Lo hemos desarrollado en <strong> VisualCode </strong></li>
+  <li> Hemos utilzado <strong> diccionarios, listas, list comprehension, loops </strong></li>
 
 Este juego fue realizado por el Grupo 5
