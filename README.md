@@ -14,7 +14,7 @@
   <li>Resuelve el enigma y localiza el puerto para escapar de la isla.</li>
 </ul>
 
-<h2>🚀 ¿Tienes lo necesario para lograr tu escape?</h2>
+<h2>🛳️ ¿Tienes lo necesario para lograr tu escape?</h2>
 <p>¡Pon a prueba tu ingenio y habilidades de exploración para salir de esta misteriosa isla! ¡Buena suerte, aventurero! 🍀</p>
 
 <h2>🚀 ¿Qué hemos usado?</h2>
