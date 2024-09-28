@@ -21,4 +21,5 @@
   <li> Lo hemos desarrollado en <strong> VisualCode </strong></li>
   <li> Hemos utilzado <strong> diccionarios, listas, list comprehension, loops </strong></li>
 
-Este juego fue realizado por el Grupo 5
+<h2>🚀 ¿Quién lo hemos realizado?</h2>
+Fue realizado por el <strong> Grupo 5, </strong> compuesto por: Carlota Gordillo, Juan Durán, Enia Lahcene, Javier Rodriguez, Laura Sánchez, Daniela García.
