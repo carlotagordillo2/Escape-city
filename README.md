@@ -18,7 +18,7 @@
 <p>¡Pon a prueba tu ingenio y habilidades de exploración para salir de esta misteriosa isla! ¡Buena suerte, aventurero! 🍀</p>
 
 <h2>🚀 ¿Qué hemos usado?</h2>
-  <li> Lo hemos desarrollado en <strong> VisualCode </strong></li>.
+  <li> Lo hemos desarrollado en <strong> VisualCode </strong>.</li>
   <li> Hemos utilzado <strong> diccionarios, listas, list comprehension, loops </strong></li>.
 
 <h2>👥 ¿Quién lo hemos realizado?</h2>
